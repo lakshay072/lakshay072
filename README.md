@@ -1,7 +1,7 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Lakshay Sheshma</h1>
 <h3 align="center">A Vehement Software Developer.</h3>
-<img align="center" >
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fonline-courses%2Fdevelopment-courses%2Fprogramming-languages-courses%2Fwhy-anyone-should-learn-to-code&psig=AOvVaw2lHTeaSx4pMRUJGGwFfEsT&ust=1672310630898000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiSieOQnPwCFQAAAAAdAAAAABAI">
+<img align="right" alt="Image regarding me" width="400" src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshay072&label=Profile%20views&color=0e75b6&style=flat" alt="lakshay072" /> </p>
 
