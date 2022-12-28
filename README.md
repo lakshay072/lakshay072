@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/lakshay072/lakshay072/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Lakshay Sheshma</h1>
 <h3 align="center">A Vehement Software Developer.</h3>
 <img align="right" alt="Image regarding me" width="400" src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif">
